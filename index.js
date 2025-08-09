@@ -25,15 +25,8 @@ try {
 // Predefined users
 const validUsers = {
     'admin': 'admin123',
-    'john': 'john123',
-    'sarah': 'sarah123',
-    'mike': 'mike123',
-    'emma': 'emma123',
-    'alex': 'alex123',
-    'lisa': 'lisa123',
-    'david': 'david123',
-    'jenny': 'jenny123',
-    'peter': 'peter123'
+    'ds': 'deepalikesdamascus',
+    'hp': 'harshadiscool'
 };
 
 // Global variables
